@@ -1,7 +1,7 @@
 # Day 01: Band Name Generator
 
 ## 📌 Table of Contents
-- [Overview](#overview)
+- [Project](#project)
 - [The Challenge](#the-challenge)
 - [My Process](#my-process)
 - [What I Learned](#what-i-learned)
@@ -10,7 +10,7 @@
 
 ---
 
-## Overview
+## Project
 A simple beginner Python project that takes user input to generate a fun band name using their city and pet name.
 
 ---
@@ -30,9 +30,11 @@ A simple beginner Python project that takes user input to generate a fun band na
 ---
 
 ## What I Learned
-- Basic input/output in Python.
-- How to use string manipulation.
-- Clean formatting for better readability.
+- Printing.
+- String Manipulation.
+- Inputs.
+- Variables.
+- Variable Naming.
 
 ---
 
@@ -44,6 +46,5 @@ A simple beginner Python project that takes user input to generate a fun band na
 
 ## Links
 - [Solution Code](./main.py)
-- [Related Course Day on Udemy](https://www.udemy.com/course/100-days-of-code/)
 
 ---
