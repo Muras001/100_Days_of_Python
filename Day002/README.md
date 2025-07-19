@@ -1,4 +1,4 @@
-# Day 02: Tip Calculator
+# Day 002: Tip Calculator
 
 ## 📌 Table of Contents
 - [Project](#project)
