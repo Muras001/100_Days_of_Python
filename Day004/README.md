@@ -1,4 +1,4 @@
-# Day 003: Rock Paper Scissors
+# Day 004: Rock Paper Scissors
 
 ## 📌 Table of Contents
 - [Project](#project)
