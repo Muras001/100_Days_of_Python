@@ -1,4 +1,4 @@
-# Day 03: Treasure Island 
+# Day 003: Treasure Island 
 
 ## 📌 Table of Contents
 - [Project](#project)
