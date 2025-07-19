@@ -43,6 +43,11 @@ A simple beginner Python project that takes user input to generate a fun band na
 
 ---
 
+## 🚀 Try Angela Yu's Band Name Generator Live
+
+[![Run on Replit](https://replit.com/badge/github/phillipra/band-name-generator-start)](https://replit.com/@phillipra/band-name-generator-start)
+
+
 ## Links
 - [Solution Code](./main.py)
 
