@@ -41,10 +41,6 @@ A simple beginner Python project that takes user input to generate a fun band na
 - Python 3.x
 - PyCharm IDE
 
-## ▶️ How to Run
-### Option 1: Run Online (1-click)
-[![Run on Replit](https://replit.com/badge/github/Muras001/your-repo)](https://replit.com/new/github/Muras001/100_Days_of_Python)
-
 ---
 
 ## Links
