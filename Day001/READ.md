@@ -23,8 +23,7 @@ A simple beginner Python project that takes user input to generate a fun band na
 ---
 
 ## My Process
-- Focused on learning the `input()` function and string concatenation.
-- Tried a few variations with f-strings and `.title()` for cleaner formatting.
+- Added comments to improve comprehension of the code.
 - Used `print("\n")` to add spacing for better user experience.
 
 ---
