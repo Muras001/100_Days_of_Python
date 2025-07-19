@@ -3,7 +3,6 @@
 ## 📌 Table of Contents
 - [Project](#project)
 - [The Challenge](#the-challenge)
-- [My Process](#my-process)
 - [What I Learned](#what-i-learned)
 - [Built With](#built-with)
 - [Links](#links)
