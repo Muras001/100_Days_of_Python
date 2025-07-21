@@ -37,7 +37,7 @@ elif ways == "right":
     if river == "swim":
         print("game over!! You were eaten by crocodiles")
     else:
-        door = input("Your almost there, you given three doors, red, blue, yellow. chose one?")
+        door = input("Your almost there, you given three doors, red, blue, yellow. chose one?\n")
         if door == "red":
             print("game over ! you got consumed by fire")
         elif door == "blue":

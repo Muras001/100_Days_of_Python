@@ -17,7 +17,7 @@ for number in range(0,nr_numbers):
     easy_Password += random.choice(numbers)
 for symbol in range(0, nr_symbols):
     easy_Password += random.choice(symbols)
-print(easy_Password)
+#print(easy_Password)
 
 #Hard Level
 
@@ -29,13 +29,14 @@ for number in range(0,nr_numbers):
 for symbol in range(0, nr_symbols):
     hard_Password.append(random.choice(symbols))
 
-print(hard_Password)
+#print(hard_Password)
 
 hard_Password_final = " "
 random.shuffle(hard_Password)
-print(hard_Password)
+#print(hard_Password)
 
 
 for hard in hard_Password:
     hard_Password_final += hard
-print(hard_Password_final)
+print(f"Your Secure Password is: {hard_Password_final}")
+
