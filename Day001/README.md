@@ -1,4 +1,4 @@
-# Day 01: Band Name Generator
+# Day 001: Band Name Generator
 
 ## 📌 Table of Contents
 - [Project](#project)
@@ -42,6 +42,7 @@ A simple beginner Python project that takes user input to generate a fun band na
 - PyCharm IDE
 
 ---
+
 
 ## Links
 - [Solution Code](./main.py)
