@@ -6,6 +6,7 @@
 - [What I Learned](#what-i-learned)
 - [Built With](#built-with)
 - [Links](#links)
+- [Code Execution Preview](#Code-Execution-Preview)
 
 ---
 
@@ -41,3 +42,5 @@ Beginner python project, asks user to chose which path they would like to follow
 - [Solution Code](./main.py)
 
 ---
+## Code Execution Preview
+![Image](https://github.com/user-attachments/assets/4f223581-439f-4444-929c-ae8a28bdc6fc)
