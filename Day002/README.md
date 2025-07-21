@@ -7,6 +7,7 @@
 - [What I Learned](#what-i-learned)
 - [Built With](#built-with)
 - [Links](#links)
+- [Code Execution Preview](#Code-Execution-Preview)
 
 ---
 
@@ -48,3 +49,5 @@ Tip calculator which determines the amount payable by each individual after incl
 - [Solution Code](./main.py)
 
 ---
+## Code Execution Preview
+![Image](https://github.com/user-attachments/assets/d1dbfdf6-988b-4f89-9dec-9a90e132ad0e)

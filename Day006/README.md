@@ -23,7 +23,7 @@ Link to challenge: https://reeborg.ca/reeborg.html?lang=en&mode=python&name=Maze
 
 
 ## What I Learned
-- Creating unctions in python.
+- Creating functions in python.
 
 ---
 
