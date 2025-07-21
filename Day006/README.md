@@ -1,4 +1,4 @@
-# Day 005: Reeborg's World Maze
+# Day 006: Reeborg's World Maze
 
 ## 📌 Table of Contents
 - [Project](#project)
