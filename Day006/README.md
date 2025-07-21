@@ -6,13 +6,14 @@
 - [What I Learned](#what-i-learned)
 - [Built With](#built-with)
 - [Links](#links)
+- [Code Execution Preview](#Code_Execution_Preview)
 
 ---
 
 ## Project
 Solving reeborg's world maze challenge.
 
-![Reeborg's Challenge](https://reeborg.ca/reeborg.html?lang=en&mode=python&name=Maze)
+(https://reeborg.ca/reeborg.html?lang=en&mode=python&name=Maze)
 ---
 
 ## The Challenge
@@ -37,9 +38,9 @@ Solving reeborg's world maze challenge.
 - [Solution Code](./main.py)
 ---
 
-##📽️ Code Execution Preview
+📽️ Code Execution Preview
 
-(https://github.com/user-attachments/assets/081001e5-9f1f-4623-9d7e-c727c56c0ef0)
+![Code Execution Preview](https://github.com/user-attachments/assets/081001e5-9f1f-4623-9d7e-c727c56c0ef0)
 
 
 
