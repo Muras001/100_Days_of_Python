@@ -6,6 +6,7 @@
 - [What I Learned](#what-i-learned)
 - [Built With](#built-with)
 - [Links](#links)
+- [Code Execution Preview](#Code-Execution-Preview)
 
 ---
 
@@ -37,3 +38,5 @@ Implementation of Rock Paper Scissors game in python.
 - [Solution Code](./main.py)
 
 ---
+## Code Execution Preview
+![Image](https://github.com/user-attachments/assets/a4ffe1cb-dbd1-456d-ae4e-8b608a494906)
