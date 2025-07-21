@@ -6,6 +6,7 @@
 - [What I Learned](#what-i-learned)
 - [Built With](#built-with)
 - [Links](#links)
+- [Code Execution Preview](#Code-Execution-Preview)
 
 ---
 
@@ -38,3 +39,6 @@ Flexible password generator that allows user to chose the number of letters, num
 - [Solution Code](./main.py)
 
 ---
+
+## Code Execution Preview
+![Image](https://github.com/user-attachments/assets/daa7588c-ba70-4dfc-a935-9399fb7202b3)
