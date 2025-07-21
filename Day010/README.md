@@ -23,7 +23,7 @@ Developing simple calculator.
 
 ## What I Learned
 - Functions with outputs.
-- Multiple Return Values
+- Multiple Return Values.
 - Docstrings.
 
 ---
