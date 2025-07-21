@@ -12,8 +12,7 @@
 
 ## Project
 Solving reeborg's world maze challenge.
-
-(https://reeborg.ca/reeborg.html?lang=en&mode=python&name=Maze)
+Link to challenge: (https://reeborg.ca/reeborg.html?lang=en&mode=python&name=Maze)
 ---
 
 ## The Challenge
@@ -38,7 +37,7 @@ Solving reeborg's world maze challenge.
 - [Solution Code](./main.py)
 ---
 
-📽️ Code Execution Preview
+## Code Execution Preview
 
 ![Code Execution Preview](https://github.com/user-attachments/assets/081001e5-9f1f-4623-9d7e-c727c56c0ef0)
 
