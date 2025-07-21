@@ -7,6 +7,7 @@
 - [What I Learned](#what-i-learned)
 - [Built With](#built-with)
 - [Links](#links)
+- [Code Execution Preview](#Code-Execution-Preview)
 
 ---
 
@@ -48,3 +49,5 @@ A simple beginner Python project that takes user input to generate a fun band na
 - [Solution Code](./main.py)
 
 ---
+## Code Execution Preview
+![Image](https://github.com/user-attachments/assets/adbffc44-a8c5-486e-ba0c-fbf379fa1110)
